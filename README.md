@@ -1,7 +1,7 @@
 # MovieDowloader-NetNaija
 Script to automate Movie downloads from theNetnaija.com.
 
-# The script scrapes thenetnaija.com to download any available movie. This is for convenience given the Ad clogs that users often face when navigating the website.
+The script scrapes thenetnaija.com to download any available movie. This is for convenience given the Ad clogs that users often face when navigating the website.
 Ensure you download Chromedriver or another executable for Selenium Webdriver to control the browser.
 Also ensure you get the download page of the file in this manner 'https://www.thenetnaija.com/videos/movies/14542-vacation-friends-2021'.
 You can adjust the script for the likes of `inputURL`, `executable_path`, `download_dir`, `executable_path_for_chrome`.
